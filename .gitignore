@@ -1,12 +1,14 @@
 # Ignore everything...
 *
+# But descend into directories
+!*/
 
 # Whitelist sync settings
 
 # gitignore
 !.gitignore
 # sublime preferences and packages
-!Preferences.sublime-settings
-!Package Control.sublime-settings
+!/sublime-text-3/Packages/User/Preferences.sublime-settings
+!/sublime-text-3/Packages/User/Package Control.sublime-settings
 # terminator configuration
-!terminator/config
+!/terminator/config

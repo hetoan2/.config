@@ -1,0 +1,141 @@
+[global_config]
+  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  title_receive_bg_color = "#8e00c9"
+  title_transmit_bg_color = "#007ec8"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = e6e08640-ca5f-4a24-aefe-7baf5e461ca7
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 65:24
+      size = 1615, 1026
+      title = tom@tom-MacBookPro: ~
+      type = Window
+    [[[child1]]]
+      order = 0
+      parent = child0
+      position = 807
+      ratio = 0.5
+      type = HPaned
+    [[[child2]]]
+      order = 0
+      parent = child1
+      position = 816
+      ratio = 0.795808966862
+      type = VPaned
+    [[[child5]]]
+      order = 1
+      parent = child1
+      position = 901
+      ratio = 0.87865497076
+      type = VPaned
+    [[[child6]]]
+      order = 0
+      parent = child5
+      position = 317
+      ratio = 0.352386237514
+      type = VPaned
+    [[[child9]]]
+      order = 1
+      parent = child5
+      position = 543
+      ratio = 0.673482032218
+      type = HPaned
+    [[[terminal10]]]
+      command = python
+      order = 0
+      parent = child9
+      profile = DimmedMonokai
+      type = Terminal
+      uuid = e6457e58-ec4a-49fb-982f-a10e1fc61cbb
+    [[[terminal11]]]
+      command = redshift
+      order = 1
+      parent = child9
+      profile = DimmedMonokai
+      type = Terminal
+      uuid = c20780c1-df42-46ad-8da0-faf55cca6fae
+    [[[terminal3]]]
+      command = ""
+      order = 0
+      parent = child2
+      profile = Darcula
+      type = Terminal
+      uuid = e6e08640-ca5f-4a24-aefe-7baf5e461ca7
+    [[[terminal4]]]
+      command = bwm-ng
+      order = 1
+      parent = child2
+      profile = DimmedMonokai
+      type = Terminal
+      uuid = e7773f3f-d63c-4bb2-b0aa-aff4d4306515
+    [[[terminal7]]]
+      command = top -d 2
+      order = 0
+      parent = child6
+      profile = DimmedMonokai
+      type = Terminal
+      uuid = 98934687-888b-41b8-8d87-7350a09b00f0
+    [[[terminal8]]]
+      command = ""
+      order = 1
+      parent = child6
+      profile = Monokai Soda
+      type = Terminal
+      uuid = d2a912b2-2ae8-42a8-a042-cafe2bae9059
+  [[basic]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#002b36"
+    background_darkness = 0.89
+    background_image = None
+    font = Ubuntu Mono 14
+    foreground_color = "#839496"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    split_to_group = True
+    use_system_font = False
+  [[Darcula]]
+    background_color = "#1e1f29"
+    background_image = None
+    cursor_color = "#bbbbbb"
+    font = Ubuntu Mono 14
+    foreground_color = "#f8f8f2"
+    palette = "#000000:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#bbbbbb:#555555:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#ffffff"
+    use_system_font = False
+  [[DimmedMonokai]]
+    background_color = "#1f1f1f"
+    background_image = None
+    cursor_color = "#f83e19"
+    foreground_color = "#b9bcba"
+    palette = "#3a3d43:#be3f48:#879a3b:#c5a635:#4f76a1:#855c8d:#578fa4:#b9bcba:#888987:#fb001f:#0f722f:#c47033:#186de3:#fb0067:#2e706d:#fdffb9"
+  [[Monokai Soda]]
+    background_color = "#1a1a1a"
+    background_darkness = 1.0
+    background_image = None
+    cursor_color = "#f6f7ec"
+    font = DejaVu Sans Mono 12
+    foreground_color = "#c4c5b5"
+    palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+    use_system_font = False
+  [[code]]
+    allow_bold = False
+    background_color = "#0d0d0d"
+    background_image = None
+    font = DejaVu Sans Mono 10
+    foreground_color = "#ffffff"
+    palette = "#181915:#7a0137:#498702:#c5bb63:#3465a4:#75507b:#4194b0:#d3d7cf:#45473c:#e00265:#6dca04:#e6db74:#1d71ca:#af5fff:#5cd1f8:#ffffff"
+    use_system_font = False
+  [[secondary]]
+    background_image = None
