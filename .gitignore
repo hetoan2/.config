@@ -1,5 +1,6 @@
 # Ignore everything...
 *
-# ... except preferences
+# ... except preferences and package list
 !.gitignore
 !Preferences.sublime-settings
+!Package Control.sublime-settings
