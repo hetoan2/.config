@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
 		"DiffTabs",
-		"Package Control"
+		"Package Control",
+		"PlainTasks"
 	]
 }
