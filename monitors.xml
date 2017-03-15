@@ -1,0 +1,142 @@
+<monitors version="1">
+  <configuration>
+    <clone>no</clone>
+    <output name="DisplayPort-1">
+      <vendor>ACI</vendor>
+      <product>PA248</product>
+      <serial>G3LMQS114793</serial>
+      <width>1200</width>
+      <height>1920</height>
+      <rate>59.950172424316406</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>left</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="eDP">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.884601593017578</rate>
+      <x>1200</x>
+      <y>285</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="DisplayPort-1">
+      <vendor>ACI</vendor>
+      <product>PA248</product>
+      <serial>G3LMQS114793</serial>
+      <width>1200</width>
+      <height>1920</height>
+      <rate>59.950172424316406</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>left</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="HDMI-0">
+      <vendor>ACI</vendor>
+      <product>PA248</product>
+      <serial>G3LMQS114790</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.950172424316406</rate>
+      <x>1200</x>
+      <y>200</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="eDP">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.884601593017578</rate>
+      <x>3120</x>
+      <y>1060</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI-0">
+      <vendor>ACI</vendor>
+      <product>PA248</product>
+      <serial>G3LMQS114790</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.950172424316406</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="eDP">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.884601593017578</rate>
+      <x>1920</x>
+      <y>940</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="eDP">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1920</width>
+      <height>1200</height>
+      <rate>59.884601593017578</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+</monitors>
